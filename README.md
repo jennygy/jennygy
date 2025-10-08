@@ -15,28 +15,28 @@
 
 ---
 
-🛠️ Tools & Skills
+### 🛠️ Tools & Skills
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `ARIMA` · `Auto-ARIMA` · `Statsmodels` · `Git` · `GitHub`  
 `VS Code` · `Jupyter Notebooks` · `Edge/Fog Computing`
 
 ---
 
-🌱 I’m currently learning...
+### 🌱 I’m currently learning...
 Advanced time-series forecasting and edge/fog computing applications for smart buildings.
 
 ---
 
-👯 I’m looking to collaborate on...
+### 👯 I’m looking to collaborate on...
 Research projects related to environmental monitoring, IoT data modeling, or energy-efficient communication protocols.
 
 ---
 
-🤔 I’m looking for help with...
+### 🤔 I’m looking for help with...
 Exploring multivariate relationships between temperature, humidity, and CO₂ for predictive modeling.
 
 ---
 
-📫 Contact
+### 📫 Contact
 - ✉️ **Email:** janeth.riveraaguilar@edu.univ-paris13.fr, janeth.rivera@academicos.udg.mx 
 - 🔗 [LinkedIn](https://www.linkedin.com/) **  
 - 📄 [ORCID](https://orcid.org/) **  

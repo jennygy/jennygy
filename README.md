@@ -8,7 +8,7 @@
 
 ---
 
-###🔬 Current work
+### 🔬 Current work
 - 📊 Developing prediction-based aggregation models for temperature, humidity, and CO₂ sensors.  
 - 🧠 Exploring edge/fog computing strategies for IoT networks.  
 - 🏡 Applying real-world datasets from indoor environments (labs, offices, and homes).
